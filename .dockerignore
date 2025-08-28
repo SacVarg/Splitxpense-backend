@@ -1,0 +1,29 @@
+# Maven
+target/
+!target/splitxpense-*.jar
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Git
+.git/
+.gitignore
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Other
+README.md
+Dockerfile
+docker-compose.yml
+.dockerignore
